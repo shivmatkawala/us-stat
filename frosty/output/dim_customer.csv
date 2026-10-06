@@ -1,0 +1,67 @@
+customer_key,customer_id,customer_name,email,phone_normalized,gender,customer_age,city,state,country,acquisition_channel
+1,C1001,Rajesh Reddy,rajesh.reddy95@example.com,,Male,34.0,Hyderabad,Telangana,India,Paid Ads
+1,C1001,Rajesh Reddy,rajesh.reddy95@example.com,9395310485.0,Male,34.0,Hyderabad,Telangana,India,Paid Ads
+2,C1002,Deepa Reddy,deepa.reddy12@example.com,9734036506.0,Male,46.0,Jaipur,Rajasthan,India,Organic Search
+2,C1002,Deepa Reddy,,,Male,46.0,Jaipur,Rajasthan,India,Organic Search
+3,C1003,Aditya Iyer,aditya.iyer65@example.com,919746412689.0,Male,,Pune,Maharashtra,India,Direct
+3,C1003,Aditya Iyer,aditya.iyer65@example.com,9746412689.0,Male,20.0,Pune,Maharashtra,India,Direct
+3,C1003,Aditya Iyer,aditya.iyer65@example.com,919746412689.0,Male,20.0,Pune,Maharashtra,India,Direct
+4,C1004,Rajesh Joshi,rajesh.joshi54@example.com,9336696312.0,Female,47.0,Jaipur,Rajasthan,India,Organic Search
+4,C1004,Rajesh Joshi,rajesh.joshi54@example.com,919336696312.0,Female,47.0,Jaipur,Rajasthan,India,Organic Search
+5,C1005,Manish Verma,manish.verma90@example.com,9553778756.0,Female,3.0,Mumbai,Maharashtra,India,Paid Ads
+5,C1005,Manish Verma,manish.verma90@example.com,9553778756.0,Female,40.0,Mumbai,Maharashtra,India,Paid Ads
+5,C1005,Manish Verma,rahul@@example.com,9553778756.0,Female,40.0,Mumbai,Maharashtra,India,Paid Ads
+6,C1006,Kavya Verma,kavya.verma14@example.com,9199585092.0,Male,43.0,Delhi,Delhi,India,Social Media
+7,C1007,Meera Rao,,9883543540.0,Male,48.0,Chennai,Tamil Nadu,India,Email
+8,C1008,Aditya Mehta,aditya.mehta81@example.com,9764130526.0,Male,42.0,Chennai,Tamil Nadu,India,Direct
+9,C1009,Aditya Sharma,aditya.sharma99@example.com,9410727955.0,Male,24.0,Pune,Maharashtra,India,Organic Search
+10,C1010,Rahul Singh,rahul.singh82@example.com,9995619255.0,Male,42.0,Ahmedabad,Gujarat,India,Social Media
+10,C1010,Rahul Singh,rahul.singh82@example.com,,Male,,Ahmedabad,Gujarat,India,Social Media
+11,C1011,Meera Iyer,meera.iyer90@example.com,9833953718.0,Male,60.0,Chennai,Tamil Nadu,India,Referral
+12,C1012,Rajesh Patel,rajesh.patel94@example.com,919362863730.0,Female,29.0,Jaipur,Rajasthan,India,Email
+13,C1013,Priya Chopra,priya.chopra29@example.com,,Male,,Jaipur,Rajasthan,India,Paid Ads
+13,C1013,Priya Chopra,priya.chopra29@example.com,9835098955.0,Male,,Jaipur,Rajasthan,India,Paid Ads
+13,C1013,Priya Chopra,priya.chopra29@example.com,9835098955.0,Male,39.0,Jaipur,Rajasthan,India,Paid Ads
+14,C1015,Amit Nair,neha.verma@example,9636045484.0,Female,44.0,Pune,Maharashtra,India,Paid Ads
+14,C1015,Amit Nair,amit.nair84@example.com,9636045484.0,Female,44.0,Pune,Maharashtra,India,Paid Ads
+15,C1016,Priya Patel,priya.patel96@example.com,9702764446.0,Female,53.0,Pune,Maharashtra,India,Direct
+15,C1016,Priya Patel,priya.patel96@example.com,9702764446.0,Female,,Pune,Maharashtra,India,Direct
+16,C1017,Sanjay Gupta,sanjay.gupta52@example.com,9488690725.0,Female,33.0,Kochi,Kerala,India,Referral
+16,C1017,Sanjay Gupta,sanjay.gupta52@example.com,9488690725.0,Male,33.0,Kochi,Kerala,India,Referral
+16,C1017,Sanjay Gupta,sanjay.gupta52@example.com,9488690725.0,,33.0,Kochi,Kerala,India,Referral
+17,C1018,Pooja Reddy,pooja.reddy15@example.com,9264112119.0,,59.0,Hyderabad,Telangana,India,Direct
+17,C1018,Pooja Reddy,,9264112119.0,Male,59.0,Hyderabad,Telangana,India,Direct
+18,C1019,Neha Rao,,9509760584.0,Female,57.0,Bangalore,Karnataka,India,Referral
+19,C1020,Priya Mehta,priya.mehta88@example.com,9873869166.0,Female,26.0,Hyderabad,Telangana,India,Direct
+19,C1020,Priya Mehta,,9873869166.0,Female,26.0,Hyderabad,Telangana,India,Direct
+20,C1021,Arjun Reddy,arjun.reddy56@example.com,,Male,48.0,Chennai,Tamil Nadu,India,Direct
+20,C1021,Arjun Reddy,arjun.reddy56@example.com,9269820594.0,Male,48.0,Chennai,Tamil Nadu,India,Direct
+21,C1022,Deepa Singh,deepa.singh98@example.com,9291825997.0,Male,51.0,Jaipur,Rajasthan,India,Direct
+22,C1025,Ananya Chopra,,9357109965.0,,22.0,Delhi,Delhi,India,Referral
+22,C1025,Ananya Chopra,ananya.chopra40@example.com,9357109965.0,Male,22.0,Delhi,Delhi,India,Referral
+23,C1026,Aditya Reddy,aditya.reddy9@example.com,9916690353.0,Male,53.0,Ahmedabad,Gujarat,India,Paid Ads
+24,C1027,Sunita Das,sunita.das22@example.com,9384602384.0,Female,,Jaipur,Rajasthan,India,Paid Ads
+24,C1027,Sunita Das,john.doe@,9384602384.0,Female,52.0,Jaipur,Rajasthan,India,Paid Ads
+24,C1027,Sunita Das,sunita.das22@example.com,9384602384.0,Female,52.0,Jaipur,Rajasthan,India,Paid Ads
+25,C1028,Divya Verma,divya.verma92@example.com,9434702822.0,Female,,Pune,Maharashtra,India,Email
+25,C1028,Divya Verma,divya.verma92@example.com,9434702822.0,Female,44.0,Pune,Maharashtra,India,Email
+25,C1028,Divya Verma,priya_at_gmail.com,9434702822.0,Female,44.0,Pune,Maharashtra,India,Email
+26,C1029,Vikram Das,vikram.das32@example.com,9341266931.0,Female,23.0,Bengaluru,Karnataka,India,Organic Search
+26,C1029,Vikram Das,vikram.das32@example.com,919341266931.0,Female,23.0,Bengaluru,Karnataka,India,Organic Search
+27,C1030,Sanjay Mehta,,9336456621.0,Male,19.0,Pune,Maharashtra,India,Direct
+27,C1030,Sanjay Mehta,sanjay.mehta76@example.com,9336456621.0,Male,19.0,Pune,Maharashtra,India,Direct
+28,C1031,Rajesh Sharma,rajesh.sharma9@example.com,9133729406.0,Male,40.0,Pune,Maharashtra,India,Referral
+29,C1032,Rohan Singh,rohan.singh28@example.com,,Female,27.0,Ahmedabad,Gujarat,India,Paid Ads
+29,C1032,Rohan Singh,rohan.singh28@example.com,9678998028.0,Female,27.0,Ahmedabad,Gujarat,India,Paid Ads
+30,C1033,Pooja Verma,pooja.verma25@example.com,9201281557.0,Female,25.0,Kolkata,West Bengal,India,Social Media
+31,C1034,Neha Gupta,neha.gupta94@example.com,9158165865.0,Male,62.0,Ahmedabad,Gujarat,India,Organic Search
+32,C1035,RAHUL JOSHI,rahul.joshi14@example.com,9366992705.0,Male,31.0,Delhi,Delhi,India,Referral
+32,C1035,Rahul Joshi,rahul.joshi14@example.com,9366992705.0,Male,,Delhi,Delhi,India,Referral
+32,C1035,Rahul Joshi,rahul.joshi14@example.com,9366992705.0,Male,31.0,Delhi,Delhi,India,Referral
+33,C1036,Karan Patel,,919399085574.0,Male,48.0,Kolkata,West Bengal,India,Organic Search
+33,C1036,Karan Patel,karan.patel24@example.com,9399085574.0,Male,48.0,Kolkata,West Bengal,India,Organic Search
+34,C1037,Karan Verma,karan.verma13@example.com,,Male,60.0,Jaipur,Rajasthan,India,Organic Search
+34,C1037,Karan Verma,karan.verma13@example.com,9154318806.0,Male,60.0,Jaipur,Rajasthan,India,Organic Search
+35,C1038,Manish Kumar,manish.kumar22@example.com,919536383774.0,,,Pune,Maharashtra,India,Paid Ads
+35,C1038,Manish Kumar,manish.kumar22@example.com,9536383774.0,Female,,Pune,Maharashtra,India,Paid Ads
+36,C1039,Rahul Chopra,rahul.chopra22@example.com,9506919288.0,Female,19.0,Hyderabad,Telangana,India,Social Media

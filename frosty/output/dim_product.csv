@@ -1,0 +1,18 @@
+product_key,product_id,product_name,category
+1,P101,Wireless Earbuds,Electronics
+2,P102,Smart Watch,Electronics
+3,P103,Bluetooth Speaker,Electronics
+4,P104,Power Bank 20000mAh,Electronics
+5,P201,Cotton T-Shirt,Fashion
+6,P202,Denim Jeans,Fashion
+7,P203,Running Shoes,Fashion
+8,P204,Leather Wallet,Fashion
+9,P301,Non-stick Cookware Set,Home & Kitchen
+10,P302,Air Fryer,Home & Kitchen
+11,P303,Bed Sheet Set,Home & Kitchen
+12,P401,Yoga Mat,Sports
+13,P402,Dumbbell Set 10kg,Sports
+14,P501,Face Serum,Beauty
+15,P502,Hair Dryer,Beauty
+16,P601,Bestseller Novel,Books
+17,P602,Python Programming Book,Books

@@ -1,0 +1,101 @@
+﻿order_id,order_date,customer_id,customer_name,email,phone,customer_age,gender,city,state,country,product_id,product_name,category,quantity,unit_price,discount_pct,shipping_cost,payment_method,order_status,delivery_date,rating,acquisition_channel
+ORD-2074,"May 23, 2026",C1034,Neha Gupta,neha.gupta94@example.com,9158165865,62,Male,Ahmedabad,Gujarat,India,P502,Hair Dryer,Beauty,2,1499,10,99,UPI,Delivered,26/05/2026,5,Organic Search
+ORD-2056,2026-04-24,C1006,Kavya Verma,kavya.verma14@example.com,91995 85092,43,Male,Delhi,Delhi,India,P302,Air Fryer,Home & Kitchen,3,"₹6,499",0,79,Cash on Delivery,Delivered,01/05/2026,5,Social Media
+ORD-2063,2026-02-28,C1017,Sanjay Gupta,sanjay.gupta52@example.com,9488690725,33,,Kochi,Kerala,India,P601,Bestseller Novel,Books,2,399,10,0,Debit Card,Delivered,2026-03-02,4,Referral
+ORD-2057,06/08/2026,C1034,Neha Gupta,neha.gupta94@example.com,9158165865,62,M,AHMEDABAD,Gujarat,India,P401,Yoga Mat,Sports,2,899,5,79,Wallet,Pending,,,Organic Search
+ORD-2068,2026-05-25,C1015,Amit Nair,amit.nair84@example.com,9636045484,44,Female,Pune,Maharashtra,India,P302,Air Fryer,Home & Kitchen,4,"₹6,499",10,0,upi,Returned,2026-05-30,,Paid Ads
+ORD-2031,"Jan 03, 2026",C1016,Priya Patel,priya.patel96@example.com,9702764446,,Female,PUNE,Maharashtra,India,P201,Cotton T-Shirt,Fashion,4,699,20,0,Net Banking,pending ,,,Direct
+ORD-2058,2026-06-06,C1030,Sanjay Mehta,sanjay.mehta76@example.com,9336456621,19,Male,Pune,Maharashtra,INDIA,P301,Non-stick Cookware Set,Home & Kitchen,1,Rs. 2799,0,49,Wallet,Delivered,13/06/2026,3,Direct
+ORD-2089,19/01/2026,C1010,Rahul Singh,rahul.singh82@example.com,9995619255,42,Male,AHMEDABAD,Gujarat,India,P601,Bestseller Novel,Books,2,399,10,79,Net Banking,Delivered,2026-01-22,1,Social Media
+ORD-2073,2026-05-18,C1037,Karan Verma,karan.verma13@example.com,9154318806,60,Male,Jaipur,Rajasthan,India,P101,Wireless Earbuds,electronics,1,2499,20,49,Net Banking,Cancelled,,,Organic Search
+ORD-2091,23/07/2026,C1017,Sanjay Gupta,sanjay.gupta52@example.com,9488690725,33,Male,Kochi,Kerala,India,P303,Bed Sheet Set,Home & Kitchen,1,1299,20,79,UPI,Returned,31/07/2026,,Referral
+ORD-2090,22/08/2026,C1007,Meera Rao,,9883543540,48,Male,Chennai,Tamil Nadu,India,P602,Python Programming Book,Books,3,₹749,0,99,Net Banking,Delivered,26/08/2026,,Email
+ORD-2003,"Apr 06, 2026",C1033,Pooja Verma,pooja.verma25@example.com,9201281557,25,Female,Kolkata,West Bengal,India,P103,Bluetooth Speaker,Electronics,2,1799,0,49,Cash on Delivery,delivered ,2026-04-14,3,Social Media
+ORD-2026,05/06/2026,C1036,Karan Patel,karan.patel24@example.com,9399085574,48,Male,Kolkata,West Bengal,India,P101,Wireless Earbuds,Electronics,1,2499,10,149,Net Banking,Delivered,2026-06-12,5,Organic Search
+ORD-2061,2026-03-06,C1004,Rajesh Joshi,rajesh.joshi54@example.com,+91-9336696312,47,Female,Jaipur,Rajasthan,India,P302,Air Fryer,Home & Kitchen,4,0,20,99,credit card,Cancelled,2026-10-01,5,Organic Search
+ORD-2005,2026-05-16,C1021,Arjun Reddy,arjun.reddy56@example.com,,48,Male,Chennai,Tamil Nadu,India,P204,Leather Wallet,Fashion,1,999,15,79,Credit Card,Delivered,,4,Direct
+ORD-2007,2026-07-09,C1005,Manish Verma,rahul@@example.com,9553778756,40,Female,Mumbai,Maharashtra,India,P204,Leather Wallet,Fashion,1,999,10,149,wallet,Delivered,2026-07-15,5,Paid Ads
+ORD-2082,20/03/2026,C1030,Sanjay Mehta,,9336456621,19,Male,Pune,Maharashtra,India,P104,Power Bank 20000mAh,Electronics,3,1599,5,149,Wallet,Shipped,,,Direct
+ORD-2086,18/03/2026,C1038,Manish Kumar,manish.kumar22@example.com,9536383774,,Female,Pune,Maharashtra,India,P601,Bestseller Novel,Books,2,399,10%,79,Cash on Delivery,Delivered,2026-03-25,5,Paid Ads
+ORD-2013,2026-08-09,C1038,Manish Kumar,manish.kumar22@example.com,+91 9536383774,,,PUNE,Maharashtra,India,P201,Cotton T-Shirt,Fashion,1,₹699,150,79,Debit Card,Delivered,2026-08-11,4,Paid Ads
+ORD-2034,2026-03-23,C1036,Karan Patel,karan.patel24@example.com,9399085574,48,Male,Kolkata,West Bengal,India,P502,Hair Dryer,Beauty,4,1499,10,99,UPI,pending ,,,Organic Search
+ORD-2002,02/09/2026,C1004,Rajesh Joshi,rajesh.joshi54@example.com,9336696312,47,Female,Jaipur,Rajasthan,India,P102,Smart Watch,Electronics,4,5999,10,49,Credit Card,SHIPPED,,,Organic Search
+ORD-2038,"Aug 01, 2026",C1022,Deepa Singh,deepa.singh98@example.com,9291825997,51,Male,Jaipur,Rajasthan,India,P502,Hair Dryer,Beauty,1,"₹1,499",20,99,Cash on Delivery,Delivered,2026-08-09,1,Direct
+ORD-2053,2026-04-04,C1032,Rohan Singh,rohan.singh28@example.com,,27,Female,Ahmedabad,Gujarat,India,P303,Bed Sheet Set,Home & Kitchen,1,Rs. 1299,5,79,UPI,Shipped,,,Paid Ads
+ORD-2017,2026-06-29,C1013,Priya Chopra,priya.chopra29@example.com,98350 98955,39,Male,Jaipur,Rajasthan,India,P502,Hair Dryer,beauty,4,1499,20,49,wallet,DELIVERED,2026-07-04,3,Paid Ads
+ORD-2016,2026-03-23,C1016,Priya Patel,priya.patel96@example.com,9702764446,53,Female, pune ,Maharashtra,India,P301,Non-stick Cookware Set,Home & Kitchen,1,2799,10,0,Debit Card,Returned,2026-04-01,,Direct
+ORD-2067,2026-02-08,C1016,Priya Patel,priya.patel96@example.com,9702764446,53,Female,Pune,Maharashtra,India,P202,Denim Jeans,Fashion,1,1899,10,99,Credit Card,Delivered,2026-02-17,4,Direct
+ORD-2041,2026-08-28,C1026,Aditya Reddy,aditya.reddy9@example.com,9916690353,53,Male,Ahmedabad,Gujarat,India,P202,Denim Jeans,Fashion,2,1899,10%,0,Cash on Delivery,Delivered,2026-09-05,5,Paid Ads
+ORD-2060,04/07/2026,C1019,Neha Rao,,9509760584,57,Female,Bangalore,Karnataka,India,P204,Leather Wallet,Fashion,1,999,0,149,Credit Card,Delivered,08/07/2026,4,Referral
+ORD-2049,"Aug 08, 2026",C1003,Aditya Iyer,aditya.iyer65@example.com,9746412689,20,Male,Pune,Maharashtra,India,P401,Yoga Mat,Sports,1,₹899,0,149,Credit Card,Returned,15/08/2026,,Direct
+ORD-2046,"Apr 22, 2026",C1031,Rajesh Sharma,rajesh.sharma9@example.com,9133729406,40,Male,PUNE,Maharashtra,India,P104,Power Bank 20000mAh,Electronics,3,1599,5,79,Cash on Delivery,DELIVERED,2026-04-26,5,Referral
+ORD-2076,25/07/2026,C1032,Rohan Singh,rohan.singh28@example.com,9678998028,27,Female,Ahmedabad,Gujarat,India,P302,Air Fryer,home & kitchen,2,6499,0,99,Credit Card,pending ,,,Paid Ads
+ORD-2023,2026-06-19,C1028,Divya Verma,divya.verma92@example.com,9434702822,240,Female,Pune,Maharashtra,India,P103,Bluetooth Speaker,Electronics,1,1799,15,0,Wallet,cancelled ,2026-10-01,5,Email
+ORD-2008,2026-06-03,C1034,Neha Gupta,neha.gupta94@example.com,9158165865,62,Male,AHMEDABAD,Gujarat,India,P101,Wireless Earbuds,Electronics,1,2499,0,79,Credit Card,Returned,2026-06-06,,Organic Search
+ORD-2033,12/06/2026,C1030,Sanjay Mehta,sanjay.mehta76@example.com,9336456621,19,Male,Pune,Maharashtra,India,P602,Python Programming Book,Books,2,749,10%,149,Net Banking,PENDING,,,Direct
+ORD-2094,2026-07-03,C1004,Rajesh Joshi,rajesh.joshi54@example.com,9336696312,47,Female,Jaipur,Rajasthan,Bharat,P302,Air Fryer,Home & Kitchen,2,6499,0%,49,Wallet,Delivered,2026-07-11,,Organic Search
+ORD-2043,2026-08-21,C1021,Arjun Reddy,arjun.reddy56@example.com,9269820594,48,Male,Chennai,Tamil Nadu,India,P203,Running Shoes, fashion  ,1,3299,20,99,Net Banking,Delivered,27/08/2026,1,Direct
+ORD-2077,2026-06-15,C1021,Arjun Reddy,arjun.reddy56@example.com,9269820594,48,Male,Chennai,Tamil Nadu,India,P301,Non-stick Cookware Set, Home & Kitchen  ,4,"₹2,799",10,149,Cash on Delivery,Delivered,2026-06-17,2,Direct
+ORD-2042,2026-08-08,C1002,Deepa Reddy,deepa.reddy12@example.com,9734036506,46,male,Jaipur,Rajasthan,India,P103,Bluetooth Speaker,Electronics,4,1799,10,49,Net Banking,delivered ,10/08/2026,4,Organic Search
+ORD-2069,2026-08-06,C1038,Manish Kumar,manish.kumar22@example.com,9536383774,,Female,Pune,Maharashtra,India,P203,Running Shoes,Fashion,2,3299,0,49,Debit Card,Delivered,2026-08-12,1,Paid Ads
+ORD-2032,2026-09-23,C1015,Amit Nair,amit.nair84@example.com,9636045484,44,Female,Pune,Maharashtra,India,P202,Denim Jeans,fashion,1,1899,10,49,Debit Card,Delivered,2026-09-26,5,Paid Ads
+ORD-2064,2026-02-13,C1037,Karan Verma,karan.verma13@example.com,,60,Male,Jaipur,Rajasthan,India,P302,Air Fryer,Home & Kitchen,1,6499,10,99,Cash on Delivery,Delivered,2026-02-18,1,Organic Search
+ORD-2087,2026-06-14,C1025,Ananya Chopra,ananya.chopra40@example.com,9357109965,22,Male,Delhi,Delhi,India,P502,Hair Dryer,Beauty,3,1499,0,149,Net Banking,Delivered,2026-06-22,4,Referral
+ORD-2018,2026-06-18,C1013,Priya Chopra,priya.chopra29@example.com,,,Male,Jaipur,Rajasthan,India,P402,Dumbbell Set 10kg,Sports,-2,1999,0,79,Cash on Delivery,Delivered,2026-06-25,2,Paid Ads
+ORD-2051,"Sep 05, 2026",C1034,Neha Gupta,neha.gupta94@example.com,9158165865,62,Male, ahmedabad ,Gujarat,India,P301,Non-stick Cookware Set,Home & Kitchen,2,2799,20,149,Debit Card,Delivered,2026-09-11,4,Organic Search
+ORD-2088,2026-08-31,C1003,Aditya Iyer,aditya.iyer65@example.com,9746412689,20,Male,PUNE,MH,India,P303,Bed Sheet Set,Home & Kitchen,4,1299,10%,99,Wallet,Pending,,,Direct
+ORD-2054,2026-01-06,C1018,Pooja Reddy,pooja.reddy15@example.com,9264112119,59,,Hyderabad,Telangana,India,P301,Non-stick Cookware Set,Home & Kitchen,1,2799,0%,49,wallet,Shipped,,,Direct
+ORD-2075,2026-06-14,C1027,Sunita Das,sunita.das22@example.com,9384602384,52,Female,Jaipur,Rajasthan,India,P303,Bed Sheet Set,Home & Kitchen,1,1299,20,49,Net Banking,Returned,2026-06-21,,Paid Ads
+ORD-2059,09/04/2026,C1035,Rahul Joshi,rahul.joshi14@example.com,9366992705,,Male, delhi ,Delhi,India,P202,Denim Jeans,Fashion,3,"₹1,899",10%,79,Debit Card,Delivered,2026-04-15,3,Referral
+ORD-2010,08/09/2026,C1017,Sanjay Gupta,sanjay.gupta52@example.com,9488690725,33,F,Kochi,Kerala,India,P602,Python Programming Book,Books,4,2499000,0,0,UPI,Delivered,2026-09-16,1,Referral
+ORD-2066,2026-04-17,C1004,Rajesh Joshi,rajesh.joshi54@example.com,9336696312,47,Female,Jaipur,Rajasthan,India,P104,Power Bank 20000mAh,Electronics,1,1599,5,0,Debit Card,Cancelled,,,Organic Search
+ORD-2006,2026-02-21,C1001,Rajesh Reddy,rajesh.reddy95@example.com,,34,Male,Hyderabad,Telangana,Bharat,P502,Hair Dryer,Beauty,2,1499,0,149,UPI,Delivered,2026-02-18,4,Paid Ads
+ORD-2039,02/09/2026,C1002,Deepa Reddy,,,46,Male,Jaipur,Rajasthan,India,P402,Dumbbell Set 10kg,Sports,1,1999,5,99,Wallet,Delivered,10/09/2026,5,Organic Search
+ORD-2037,20/03/2026,C1015,Amit Nair,neha.verma@example,9636045484,44,Female,Pune,Maharashtra,India,P402,Dumbbell Set 10kg,Sports,1,1999,0,99,Net Banking,Pending,,,Paid Ads
+ORD-2050,24/02/2026,C1027,Sunita Das,sunita.das22@example.com,9384602384,,Female,Jaipur,Rajasthan,India,P601,Bestseller Novel,Books,1,399,15,99,Debit Card,Delivered,2026-02-28,5,Paid Ads
+ORD-2021,17/07/2026,C1033,Pooja Verma,pooja.verma25@example.com,9201281557,25,Female,Kolkata,West Bengal,India,P104,Power Bank 20000mAh,Electronics,1,1599,5,0,Wallet,Cancelled,2026-10-01,5,Social Media
+ORD-2047,2026-06-09,C1008,Aditya Mehta,aditya.mehta81@example.com,9764130526,42,Male,CHENNAI,Tamil Nadu,India,P202,Denim Jeans,Fashion,2,1899,0,79,Wallet,Delivered,2026-06-17,5,Direct
+ORD-2046,"Apr 22, 2026",C1031,Rajesh Sharma,rajesh.sharma9@example.com,9133729406,40,Male,PUNE,Maharashtra,India,P104,Power Bank 20000mAh,Electronics,3,1599,5,79,Cash on Delivery,DELIVERED,2026-04-26,5,Referral
+ORD-2071,2026-07-26,C1030,Sanjay Mehta,sanjay.mehta76@example.com,9336456621,19,Male,Pune,Maharashtra,India,P302,Air Fryer,home & kitchen,2,"₹6,499",10,99,Cash on Delivery,Delivered,2026-08-04,3,Direct
+ORD-2011,2026-06-20,C1003,Aditya Iyer,aditya.iyer65@example.com,+91 9746412689,20,male,Pune,Maharashtra,India,P101,Wireless Earbuds,Electronics,1,2499,15,79,Debit Card,Pending,,,Direct
+ORD-2022,2026-09-24,C1028,Divya Verma,divya.verma92@example.com,9434702822,44,Female,Pune,Maharashtra,India,P101,Wireless Earbuds,Electronics,3,2499,15,49,UPI,Shipped,,,Email
+ORD-2030,10/04/2026,C1030,Sanjay Mehta,sanjay.mehta76@example.com,9336456621,19,Male,Pune,Maharashtra,India,P501,Face Serum,beauty,3,Rs. 849,10,99,Net Banking,Pending,,,Direct
+ORD-2027,2026-09-19,C1029,Vikram Das,vikram.das32@example.com,9341266931,23,Female,Bengaluru,Karnataka,India,P203,Running Shoes,fashion,4,3299,20,49,Wallet,Shipped,,,Organic Search
+ORD-2025,2026-08-04,C1009,Aditya Sharma,aditya.sharma99@example.com,9410727955,24,Male, pune ,Maharashtra,India,P203,Running Shoes,Fashion,2,3299,15,49,Net Banking,Returned,2026-08-10,,Organic Search
+ORD-2014,"Jul 01, 2026",C1016,Priya Patel,priya.patel96@example.com,9702764446,53,Female,Pune,MH,India,P104,Power Bank 20000mAh,Electronics,2,1599,20,99,Cash on Delivery,Pending,,,Direct
+ORD-2012,2026-01-05,C1029,Vikram Das,vikram.das32@example.com,+91 9341266931,23,Female, bengaluru ,Karnataka,India,P501,Face Serum,Beauty,1,849,15,49,UPI,Delivered,2026-01-07,1,Organic Search
+ORD-2084,2026-09-18,C1025,Ananya Chopra,,9357109965,22,,Delhi,Delhi,India,P203,Running Shoes,Fashion,1,"₹3,299",20,0,UPI,Pending,,,Referral
+ORD-2070,26/03/2026,C1005,Manish Verma,manish.verma90@example.com,9553778756,40,Female,MUMBAI,Maharashtra,India,P102,Smart Watch,Electronics,2,5999,15,149,Credit Card,DELIVERED,2026-04-01,,Paid Ads
+ORD-2009,2026-05-20,C1036,Karan Patel,,+91 9399085574,48,Male,Kolkata,West Bengal,India,P201,Cotton T-Shirt,fashion,2,699,0,79,wallet,Delivered,25/05/2026,2,Organic Search
+ORD-2052,2026-08-19,C1006,Kavya Verma,kavya.verma14@example.com,9199585092,43,Male,Delhi,Delhi,India,P301,Non-stick Cookware Set,Home & Kitchen,4,2799,10%,149,Credit Card,Delivered,2026-08-27,4,Social Media
+ORD-2019,15/01/2026,C1026,Aditya Reddy,aditya.reddy9@example.com,9916690353,53,Male,Ahmedabad,Gujarat,India,P303,Bed Sheet Set, Home & Kitchen  ,1,1299,0,149,Credit Card,DELIVERED,2026-01-21,3,Paid Ads
+ORD-2077,2026-06-15,C1021,Arjun Reddy,arjun.reddy56@example.com,9269820594,48,Male,Chennai,Tamil Nadu,India,P301,Non-stick Cookware Set, Home & Kitchen  ,4,"₹2,799",10,149,Cash on Delivery,Delivered,2026-06-17,2,Direct
+ORD-2001,2026-04-22,C1013,Priya Chopra,priya.chopra29@example.com,9835098955,39,Male,Jaipur,Rajasthan,India,P302,Air Fryer, Home & Kitchen  ,2,6499,15,149,UPI,Delivered,2026-04-19,2,Paid Ads
+ORD-2093,21/02/2026,C1028,Divya Verma,priya_at_gmail.com,9434702822,44,Female,Pune,Maharashtra,India,P104,Power Bank 20000mAh,Electronics,1,"₹1,599",15,79,UPI,Delivered,2026-02-23,3,Email
+ORD-2044,2026-08-29,C1017,Sanjay Gupta,sanjay.gupta52@example.com,9488690725,33,Male,Kochi,Kerala,India,P103,Bluetooth Speaker,Electronics,3,Rs. 1799,10,0,Wallet,Delivered,2026-09-05,4,Referral
+ORD-2040,2026-09-07,C1035,Rahul Joshi,rahul.joshi14@example.com,9366992705,31,Male,Delhi,Delhi,India,P204,Leather Wallet,Fashion,1,999,10,99,UPI,Delivered,09/09/2026,5,Referral
+ORD-2083,2026-09-05,C1018,Pooja Reddy,,9264112119,59,Male,HYDERABAD,Telangana,India,P501,Face Serum,Beauty,1,849,10,149,Debit Card,Shipped,,,Direct
+ORD-2024,2026-06-08,C1020,Priya Mehta,priya.mehta88@example.com,9873869166,26,Female,Hyderabad,Telangana,India,P602,Python Programming Book,Books,2,749,5,99,Cash on Delivery,Returned,2026-06-14,,Direct
+ORD-2081,2026-01-08,C1011,Meera Iyer,meera.iyer90@example.com,9833953718,60,Male,Chennai,Tamil Nadu,India,P302,Air Fryer,Home & Kitchen,2,6499,0,-99,Credit Card,Cancelled,,,Referral
+ORD-2035,2026-09-24,C1016,Priya Patel,priya.patel96@example.com,9702764446,53,Female,Pune,Maharashtra,India,P301,Non-stick Cookware Set,Home & Kitchen,3,2799,0,79,Net Banking,Shipped,,,Direct
+ORD-2078,28/01/2026,C1030,Sanjay Mehta,sanjay.mehta76@example.com,9336456621,19,Male,Pune,Maharashtra,India,P501,Face Serum,Beauty,2,₹849,5,149,Net Banking,Delivered,2026-02-06,2,Direct
+ORD-2004,2026-02-11,C1016,Priya Patel,priya.patel96@example.com,9702764446,53,Female,Pune,Maharashtra,India,P102,Smart Watch,Electronics,0,5999,10,149,Debit Card,DELIVERED,2026-02-08,4,Direct
+ORD-2040,2026-09-07,C1035,RAHUL JOSHI,rahul.joshi14@example.com,9366992705,31,Male,Delhi,Delhi,India,P204,Leather Wallet,Fashion,1,999,10,99,UPI,Delivered,09/09/2026,5,Referral
+ORD-2079,2026-05-17,C1004,Rajesh Joshi,rajesh.joshi54@example.com,9336696312,47,Female,Jaipur,Rajasthan,IN,P203,Running Shoes,Fashion,1,3299,5,99,Wallet,Cancelled,,,Organic Search
+ORD-2080,2026-01-15,C1032,Rohan Singh,rohan.singh28@example.com,9678998028,27,Female,Ahmedabad,Gujarat,India,P104,Power Bank 20000mAh,Electronics,2,1599,20,49,Wallet,Cancelled,,,Paid Ads
+ORD-2092,2026-02-05,C1032,Rohan Singh,rohan.singh28@example.com,9678998028,27,F,Ahmedabad,Gujarat,India,P102,Smart Watch,Electronics,3,5999,15,79,Credit Card,Delivered,10/02/2026,2,Paid Ads
+ORD-2055,04/05/2026,C1027,Sunita Das,john.doe@,9384602384,52,Female,Jaipur,Rajasthan,India,P601,Bestseller Novel,Books,2,399,15%,99,Credit Card,Returned,2026-05-13,,Paid Ads
+ORD-2095,2026-03-31,C1012,Rajesh Patel,rajesh.patel94@example.com,+91-9362863730,29,Female,Jaipur,Rajasthan,India,P202,Denim Jeans,Fashion,2,1899,20,99,COD,Delivered,2026-04-05,5,Email
+ORD-2074,"May 23, 2026",C1034,Neha Gupta,neha.gupta94@example.com,9158165865,62,Male,Ahmedabad,Gujarat,India,P502,Hair Dryer,Beauty,2,1499,10,99,UPI,Delivered,26/05/2026,5,Organic Search
+ORD-2036,"May 01, 2026",C1005,Manish Verma,manish.verma90@example.com,9553778756,3,Female, mumbai ,Maharashtra,India,P302,Air Fryer, Home & Kitchen  ,1,6499,5,149,Debit Card,Delivered,,4,Paid Ads
+ORD-2015,2026-03-25,C1010,Rahul Singh,rahul.singh82@example.com,,,Male,Ahmedabad,Gujarat,India,P204,Leather Wallet,Fashion,2,₹999,0,49,net banking,DELIVERED,2026-04-01,1,Social Media
+ORD-2048,2026-05-05,C1013,Priya Chopra,priya.chopra29@example.com,98350 98955,,Male,JAIPUR,Rajasthan,India,P103,Bluetooth Speaker,Electronics,3,1799,20%,79,Cash on Delivery,Delivered,2026-05-08,1,Paid Ads
+ORD-2072,2026-06-15,C1003,Aditya Iyer,aditya.iyer65@example.com,+91 9746412689,-5,Male,Pune,Maharashtra,India,P501,Face Serum,Beauty,1,849,0,0,Debit Card,Cancelled,,,Direct
+ORD-2045,16/01/2026,C1005,Manish Verma,manish.verma90@example.com,9553778756,40,Female,Mumbai,Maharashtra,India,P102,Smart Watch,Electronics,250,5999,20,0,Debit Card,Delivered,2026-01-20,4,Paid Ads
+ORD-2014,"Jul 01, 2026",C1016,Priya Patel,priya.patel96@example.com,9702764446,53,Female,Pune,MH,India,P104,Power Bank 20000mAh,Electronics,2,1599,20,99,Cash on Delivery,Pending,,,Direct
+ORD-2029,2026-04-12,C1020,Priya Mehta,,9873869166,26,Female,Hyderabad,Telangana,IN,P204,Leather Wallet,Fashion,1,999,0,49,Credit Card,Delivered,21/04/2026,5,Direct
+ORD-2062,29/08/2026,C1001,Rajesh Reddy,rajesh.reddy95@example.com,9395310485,34,Male,Hyderabad,Telangana,India,P302,Air Fryer,Home & Kitchen,2,6499,5,49,Credit Card,Shipped,,,Paid Ads
+ORD-2085,"Sep 17, 2026",C1027,Sunita Das,sunita.das22@example.com,9384602384,52,Female, jaipur ,Rajasthan,India,P303,Bed Sheet Set,Home & Kitchen,4,1299,0,79,Cash on Delivery,DELIVERED,2026-09-23,1,Paid Ads
+ORD-2020,2026-06-26,C1039,Rahul Chopra,rahul.chopra22@example.com,9506919288,19,Female,Hyderabad,Telangana,India,P501,Face Serum,Beauty,4,849,5%,99,Cash on Delivery,Pending,,,Social Media
+ORD-2028,2026-09-21,C1006,Kavya Verma,kavya.verma14@example.com,9199585092,43,Male, delhi ,Delhi,India,P302,Air Fryer,home & kitchen,3,Rs. 6499,10,79,Debit Card,Returned,2026-09-24,,Social Media
+ORD-2065,2026-08-15,C1025,Ananya Chopra,ananya.chopra40@example.com,9357109965,22,Male,Delhi,Delhi,Bharat,P502,Hair Dryer,Beauty,4,"₹1,499",10,99,Cash on Delivery,Delivered,2026-08-21,5,Referral
